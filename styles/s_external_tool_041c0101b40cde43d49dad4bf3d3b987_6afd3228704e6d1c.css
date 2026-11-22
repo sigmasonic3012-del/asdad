@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" data-theme="modern">
+<head>
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Karla:400:latin' ] }
+  };
+  (function() {
+    var h = document.getElementsByTagName('html')[0];
+    h.className += ' wf-karla-n4-loading';
+    var t = setTimeout(function() {
+      h.className = h.className.replace(/(\s|^)wf-loading(\s|$)/g, ' ');
+      h.className = h.className.replace(/(\s|^)wf-karla-n4-loading(\s|$)/g, ' ');
+      h.className += ' wf-inactive';
+    }, 2000);
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="google-site-verification" content="6ystVr7sfpd20ctZGukFGunzOJQW7O6kJpXvzAxSEzI" />
+<meta name="google-site-verification" content="9tK81P_TYDOlOx_Me0FXzEj_nQnkL9G0kQxRcG4LT7I" />
+<meta name="p:domain_verify" content="d76e189f546bfd185bd2a3ec1a7f214c" />
+<link rel="shortcut icon" href="https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico" type="image/x-icon" />
+<link rel="image_src" href="/images/schoology_thumbnail.png" />
+<link rel="stylesheet" type="text/css" href="https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/theme-modern-sgy.css"/>
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/schoology_theme/css/style.css?1444671451" />
+<link rel="stylesheet" type="text/css" href="sites/all/themes/schoology_theme/css/thickbox.css?qrstuv" media="screen" />
+<script type="text/javascript" src="/misc/jquery.min.js?1593450720"></script>
+<script type="text/javascript" src="/misc/jquery-html-prefilter-3.5.0-backport.js?1405525770"></script>
+<script type="text/javascript" src="/misc/drupal.js?qrstuv"></script>
+<script type="text/javascript" src="/sites/all/misc/jquery.elastic-1.6.11.js?1407513164"></script>
+<script type="text/javascript" src="/sites/all/themes/schoology_theme/js/thickbox-compressed.js?qrstuv"></script>
+<script type="text/javascript" src="/sites/all/themes/schoology_theme/js/modernizr-2.6.2.min.js?qrstuv"></script>
+<script type="text/javascript" src="/sites/all/themes/schoology_theme/js/front.js?1714416173000"></script>
+<script type="text/javascript" src="/sites/all/misc/jquery-autocomplete/jquery.autocomplete.js?qrstuv"></script>
+<script type="text/javascript" src="/sites/all/modules/schoology_core/s_user/s_user_usernames_login.js?1532547239000"></script>
+<!--[if lt IE 9]>
+<script>
+	document.createElement('header');
+	document.createElement('nav');
+	document.createElement('section');
+	document.createElement('article');
+	document.createElement('aside');
+	document.createElement('footer');
+	document.createElement('hgroup');
+	document.createElement('figure');
+	document.createElement('figcaption');
+</script>
+<![endif]-->
+<meta name="description" content="Register for Schoology, the first course management system (CMS) built on a social networking platform, designed to help educators, students and parents interact outside the classroom." />
+<title>Page Not Found - Schoology</title>
+
+</head>
+<body class=' anon-404'>
+<header class="modern-header">
+  <div class="modern-header-content">
+    <a class="modern-header-logo" href="https://www.schoology.com/">
+      <img src="https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/images_front/sgylogo.svg" alt="PowerSchool Schoology Learning Logo">
+    </a>
+    <nav id="main-nav">
+      <ul class="supplementary">
+        <li>
+          <a id="menu-login" class="login sExtlink-processed" href="https://app.schoology.com/login">Login</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+  <div id="supplementary" class="page-not-found">
+    <section id="main-content">
+      <div id="container-404" class="container">
+        <div class="row showcase">
+          <div class="column span2 pull-right">
+            <h1>We could not find the page you are looking for.</h1>
+            <p>You may have clicked an expired link or mistyped the address.            <br/>Some web addresses are case sensitive.</p>
+            <ul>
+              <li><a href="/home.php">Return Home</a></li>
+              <li><a href="javascript: history.go(-1);">Go back to previous page</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div id="registration-thickbox-model" class="hidden">
+	  <div id="registration-thickbox-step1">
+	    <div id="TB_title">
+	    	<span class="caret x-large up"></span>
+	    	<h3>Sign up for Schoology</h3>
+        <button type="button" class='back clickable disabled btn-link'>Back</button>
+	    </div>
+	    <div id="registration-form-wrapper">
+	      <div id="sign-up-selector">
+	        <ul>
+	          <li id="role-item-5" class="role-item"><button type="button" class="submit-btn btn-primary-cta">Instructor</button></li><li id="role-item-6" class="role-item"><button type="button" class="submit-btn btn-secondary-cta">Student</button></li><li id="role-item-7" class="role-item"><button type="button" class="submit-btn btn-tertiary-cta">Parent</button></li>	        </ul>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+  <footer id="page-footer">
+    <section id="footer-cta">
+      <div class="container conversion-ctas">
+        <a id="footer-cta-sign-up" class="sign-up" href="https://app.schoology.com/register.php">Sign Up</a>
+        <p class="enterprise">For Enterprise, <a id="footer-cta-contact-enterprise" href="https://www.app.schoology.com/contact-enterprise.php">contact a representative</a> or call <strong>800-393-7550</strong>.</p>
+      </div>
+      <div class="container footer-awards">
+        <div class="shadow no-text">
+          <div class="awards">
+            <a class="ir" id="codie2014" href="https://www.app.schoology.com/codie-award-winner-2014.php">2014 SIIA CODiE Winner</a>
+            <span class="divider"></span>
+            <a href="https://edtechdigest.wordpress.com/2013/04/04/2013-finalists-winners/" id="cta2013" target="_blank" class="ir">Cool Tool Award 2013 EdTech Digest</a>
+            <span class="divider"></span>
+            <a href="https://www.app.schoology.com/aasl-app-award.php" id="aasl" class="ir">American Associated of School Librarians (AASL) Best Apps for Teaching &amp; Learning 2013 - Orginaization &amp; Management</a>
+            <span class="divider"></span>
+            <a href=" https://www.schoology.com/excellence-award-winner.php" id="aoe2013" target="_blank" class="ir">Awards of Excellence 2013 Winner - Tech &amp; Learning</a>
+            <span class="divider"></span>
+            <a href="https://www.inspiration.com/sites/default/files/filemanager/file/Press_Release_AOE_2012_v2.pdf" id="aoe2012" target="_blank" class="ir">Awards of Excellence 2012 Winner - Tech &amp; Learning</a>
+            <span class="divider"></span>
+            <a class="ir" id="top100" href="https://www.districtadministration.com/top-100-winners-2013" rel="external" target="_blank">Distrct Adminstration Readers' Choice Top 100 Products - 2013</a>
+            <span class="divider"></span>
+            <a class="ir" id="codie2013" href="https://www.app.schoology.com/codie-award-winner.php">2013 SIIA CODiE Winner</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <nav id="footer-nav" class="clearfix">
+      <div class="container">
+        <div id="footer-nav-wrapper">
+          <div class="row">
+            <div class="column span1">
+              <h2 class="h3">Why Schoology</h2>
+              <ul>
+                <li><a id="footer-nav-what-we-offer" href="https://www.app.schoology.com/learning-management-system.php">What We Offer</a></li>
+                <li><a id="footer-nav-k-12" href="https://www.app.schoology.com/k-12.php">K-12</a></li>
+                <li><a id="footer-nav-higher-ed" href="https://www.app.schoology.com/higher-education.php">Higher Ed</a></li>
+                <li><a id="footer-nav-success-stories" href="https://www.app.schoology.com/testimonials.php">Success Stories</a></li>
+                <li><a id="footer-nav-communication-hub" href="https://www.app.schoology.com/collaborative-learning.php">Communication Hub</a></li>
+                <li><a id="footer-nav-sign-up" class="sign-up" href="https://app.schoology.com/register.php">Sign Up Free</a></li>
+                <li><a id="footer-nav-request-info" href="https://www.app.schoology.com/contact-enterprise.php">Request Info</a></li>
+              </ul>
+            </div>
+            <div class="column span1">
+              <h2 class="h3">Company</h2>
+              <ul>
+                <li><a id="footer-nav-our-mission" href="https://www.app.schoology.com/mission.php">Our Mission</a></li>
+                <li><a id="footer-nav-our-history" href="https://www.app.schoology.com/history.php">Our History</a></li>
+                <li><a id="footer-nav-newsroom" href="https://www.app.schoology.com/news-and-press.php">Newsroom</a></li>
+                <li><a id="footer-nav-events" href="https://www.app.schoology.com/events.php">Events</a></li>
+                <li><a id="footer-nav-careers" href="https://www.app.schoology.com/careers.php">Careers</a></li>
+                <li><a id="footer-nav-schoology-next" href="https://www.schoologynext.com/" rel="external" target="_blank">Schoology NEXT</a></li>
+                <li><a id="footer-nav-tech-blog" href="https://tech.schoology.com/" rel="external" target="_blank">Tech Blog</a></li>
+              </ul>
+            </div>
+            <div class="column span1">
+              <h2 class="h3">Services</h2>
+              <ul>
+                <li><a id="footer-nav-help-center" href="https://support.schoology.com/hc/en-us" rel="external" target="_blank">Help Center</a></li>
+                <li><a id="footer-nav-blog" href="https://blog.schoology.com" rel="external" target="_blank">Blog</a></li>
+                <li><a id="footer-nav-community" href="https://support.schoology.com/hc/communities/public/topics" rel="external" target="_blank">Community</a></li>
+                <li><a id="footer-nav-developers" href="http://developers.schoology.com" rel="external" target="_blank">Developers</a></li>
+                <li><a id="footer-nav-faqs" href="https://www.app.schoology.com/faqs.php" rel="external" target="_blank">FAQs</a></li>
+                <li><a id="footer-nav-status" href="http://status.schoology.com" rel="external" target="_blank">Status</a></li>
+                <li><a id="footer-nav-privacy" href="https://www.app.schoology.com/privacy.php">Privacy</a></li>
+              </ul>
+            </div>
+            <div class="column span1">
+              <h2 class="h3">Contact</h2>
+              <ul>
+                <li><a id="footer-nav-schoology-support" href="https://www.app.schoology.com/contact.php">Schoology Support</a></li>
+                <li><a id="footer-nav-enterprise-solutions" href="https://www.app.schoology.com/contact-enterprise.php">Enterprise Solutions</a></li>
+                <li><a id="footer-nav-partnership-opportunities" href="https://www.app.schoology.com/contact-partners.php">Partnership Opportunities</a></li>
+                <li><a id="footer-nav-media-inquiries" href="https://www.app.schoology.com/contact-press.php">Media Inquires</a></li>
+                <li><a id="footer-nav-directory" href="https://www.app.schoology.com/directory">Directory</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <aside class="clearfix">
+      <div class="container">
+        <div id="copyright-and-social">
+          Schoology &copy; 2026 <span class="divider">|</span> Follow Us: <a id="social-media-twitter" class="ir" href="http://twitter.com/schoology" rel="external" target="_blank">Twitter</a> <a id="social-media-facebook" class="ir" href="http://facebook.com/schoology" rel="external" target="_blank">Facebook</a> <a id="social-media-google" class="ir" href="https://plus.google.com/105456593904819113623" rel="publisher" target="_blank">Google+</a> <a id="social-media-linkedin" class="ir" href="http://www.linkedin.com/company/schoology" rel="external" target="_blank">LinkedIn</a> <a id="social-media-pinterest" class="ir" href="http://pinterest.com/schoology/" rel="external" target="_blank">Pinterest</a>
+        </div>
+        <div id="trust" style="display:none">
+          <a href="https://www.schoology.com/privacy" target="_blank">
+            <img alt="Privo Privacy Certified" src="https://privo.com/images/certLogos/H_PPC_B.png" />
+          </a>
+          <script type="text/javascript">
+            (function () {
+              var lang = document.documentElement.lang;
+              var link = 'https://www.schoology.com/privacy';
+              if (lang === 'es') {
+                link += '/es';
+              }
+
+              var privacyLink = document.getElementById('privacy-link');
+              privacyLink.href = link;
+            })();
+          </script>
+        </div>
+      </div>
+    </aside>
+  </footer>
+</body>
+</html>
